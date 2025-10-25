@@ -111,10 +111,10 @@ using namespace std;
 		cout << parzysta(6) << endl;
 		cout << bezwzgledna(21) << endl;
 		cout << pole(5, 10) << endl;
-		cout << polek(5);
-		cout << obwodkw(5);
-		cout << minimum(10, 4);
-		cout << maximum(10, 4);
+		cout << polek(5)<<endl;
+		cout << obwodkw(5)<<endl;
+		cout << minimum(10, 4)<<endl;
+		cout << maximum(10, 4)<<endl;
 
 
 
